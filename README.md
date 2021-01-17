@@ -6,7 +6,7 @@
 
 returns 
 
-{
+`{
   "result": {
     "base": "CZK",
     "date": "2021-01-15",
@@ -16,7 +16,7 @@ returns
       "USD": 0.0463364293
     }
   }
-}
+}`
 
 
 `https://exchange-rate-latest-api.herokuapp.com/api/rates`
